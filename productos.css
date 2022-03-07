@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Estilos de titulos*/
+.titulo{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    font-family: bukhari;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/*Estilo separador*/
+.separador{
+    width: 100%;
+    height: 5px;
+    background-color: rosybrown;
+}
+
+/*Estilos fondo*/
+.fondo{
+    width: 100%;
+    height: 1500px;
+    background-color: white;
+}
+
+/*Estilos divs de sección de tipos de pasteles*/
+#div1{
+    position:absolute;
+    top:200px;
+    left:300px;
+}
+
+#div2{
+    position:absolute;
+    top:200px;
+    left:600px;
+}
+
+#div3{
+    position:absolute;
+    top:200px;
+    left:900px;
+}
+
+#div4{
+    position:absolute;
+    top:410px;
+    left:330px;
+}
+
+#div5{
+    position:absolute;
+    top:415px;
+    left:670px;
+}
+
+#div6{
+    position:absolute;
+    top:410px;
+    left:950px;
+}
+
+#div7{
+    position:absolute;
+    top:450px;
+     left:360px;
+}
+
+#div8{
+    position:absolute;
+    top:450px;
+    left:665px;
+}
+
+#div9{
+    position:absolute;
+    top:450px;
+    left:970px;
+}
+
+#div4, #div5, #div6{
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+#div7, #div8, #div9{
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: bold;
+    color: #D6258A;
+}
+
+/*Estilos para sección de sabores*/
+.titulo2{
+    background-color: white;
+    font-family: bukhari;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 630px;
+    top: 520px;
+}
+
+#sab1{
+    position:absolute;
+    top:600px;
+    left:450px;
+}
+
+#sab2{
+    position:absolute;
+    top:600px;
+    left:750px;
+}
+
+#sab3{
+    position:absolute;
+    top:815px;
+    left:510px;
+}
+
+#sab4{
+    position:absolute;
+    top:815px;
+    left:830px;
+}
+
+#sab3, #sab4{
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+/*Estilos para sección de rellenos de pasteles*/
+.titulo3{
+    background-color: white;
+    font-family: bukhari;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 630px;
+    top: 870px;
+}
+
+#re1{
+    position:absolute;
+    top:980px;
+    left:300px;
+}
+
+#re2{
+    position:absolute;
+    top:980px;
+    left:600px;
+}
+
+#re3{
+    position:absolute;
+    top:980px;
+    left:900px;
+}
+
+#re4{
+    position:absolute;
+    top:1200px;
+    left:380px;
+}
+
+#re5{
+    position:absolute;
+    top:1200px;
+    left:620px;
+}
+
+#re6{
+    position:absolute;
+    top:1200px;
+    left:980px;
+}
+
+#re4, #re5, #re6{
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+/*Estilos para sección de adornos*/
+.titulo4{
+    background-color: white;
+    font-family: bukhari;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 580px;
+    top: 1280px;
+}
+
+#ad1{
+    position:absolute;
+    top:1370px;
+    left:300px;
+}
+
+#ad2{
+    position:absolute;
+    top:1370px;
+    left:600px;
+}
+
+#ad3{
+    position:absolute;
+    top:1370px;
+    left:900px;
+}
+
+#ad4{
+    position:absolute;
+    top:1585px;
+    left:330px;
+}
+
+#ad5{
+    position:absolute;
+    top:1580px;
+    left:670px;
+}
+
+#ad7{
+    position:absolute;
+    top:1580px;
+    left:940px;
+}
+
+#ad4, #ad5, #ad7{
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}

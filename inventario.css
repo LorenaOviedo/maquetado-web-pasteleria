@@ -1,0 +1,72 @@
+/*Estilos fondo Inventario*/
+.fondo3{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+}
+
+/*Estilos tabla sabores*/
+#tab1{
+    width: 25%;
+    background-color: rosybrown;
+}
+
+#tab1{
+    position: absolute;
+    top: 250px;
+    left:190px;
+}
+
+table tr td{
+    font-family: 'Segoe UI';
+    font-size: 20px;
+}
+
+/*Estilos tabla adornos*/
+#tab2{
+    width: 25%;
+    background-color: rosybrown;
+}
+
+#tab2{
+    position: absolute;
+    top: 250px;
+    left:850px;
+}
+
+/*Estilos tabla pedidos*/
+#tab3{
+    width: 60%;
+    background-color: rosybrown;
+}
+
+#tab3{
+    position: absolute;
+    top: 530px;
+    left:250px;
+}
+
+/*Formato titulos tablas*/
+.titulo-sabores{
+    position: absolute;
+    top: 220px;
+    left: 320px;
+}
+
+.titulo-adornos{
+    position: absolute;
+    top: 220px;
+    left: 1000px;
+}
+
+.titulo-pedidos{
+    position: absolute;
+    top: 500px;
+    left: 650px;
+}
+
+.titulo-sabores, .titulo-adornos, .titulo-pedidos{
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: bold;
+}
